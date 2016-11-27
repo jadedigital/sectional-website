@@ -465,13 +465,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0637749"
-     inkscape:cx="384.8566"
-     inkscape:cy="156.50247"
+     inkscape:cx="365.47464"
+     inkscape:cy="175.88443"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2560"
-     inkscape:window-height="1515"
+     inkscape:window-height="1609"
      inkscape:window-x="0"
      inkscape:window-y="51"
      inkscape:window-maximized="1"
@@ -499,7 +499,7 @@
      transform="translate(-2069.9521,-506.2388)"
      style="filter:url(#filter6038)">
     <rect
-       style="opacity:1;fill:#555555;fill-opacity:1;stroke:#1869d4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#2f2f2f;fill-opacity:1;stroke:#1869d4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5351"
        width="125"
        height="125"
@@ -685,7 +685,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:157.24238586px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:157.24238586px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#2f2f2f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="2242.0916"
        y="629.70325"
        id="text5323"
@@ -694,7 +694,7 @@
          id="tspan5325"
          x="2242.0916"
          y="629.70325"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#555555;fill-opacity:1">Sectional</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#2f2f2f;fill-opacity:1;">Sectional</tspan></text>
     <g
        inkscape:export-ydpi="479.99997"
        inkscape:export-xdpi="479.99997"
