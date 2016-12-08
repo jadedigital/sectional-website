@@ -97,7 +97,7 @@ hr {
     display: block;
     text-align: left;
     padding: 20px 0;
-    background-color: $color-brown-base;
+    background-color: $color-dark-slate;
     color: $color-beige-base;
     font-size: 14px;
     height: 73px;
@@ -319,13 +319,13 @@ hr {
     font-weight: 400;
     text-shadow: none;
     border-radius: 5px;
-    background: $color-brown-base;
+    background: $color-dark-slate;
     box-shadow: 4px 4px rgba(0, 0, 0, 0.1)
 }
 
 .download-button:hover {
     text-decoration: none;
-    background: $color-brown-dark
+    background: $color-light-slate
 }
 
 .download-button:active {
